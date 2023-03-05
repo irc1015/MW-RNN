@@ -1,2 +1,2 @@
-# EscalatorGAN
+# Beta_Model
 You don`t know what you will meet at next corner
